@@ -8,7 +8,7 @@
 
 typedef std::vector<std::string> strVec;
 
-// Store the stdin to a vector
+// Store the stdin in a vector
 strVec readStdin ()
 {
     std::string line;
